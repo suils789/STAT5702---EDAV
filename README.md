@@ -9,3 +9,4 @@ Data cleaning script: EDAV data cleaning.ipynb
 Intermedian data after scraping: nyc_hotel.json  
 Cleaned data: hotel.csv  
 Interactive part: EDAV_project  
+To play with the app, click https://nychotelfinder.herokuapp.com/
