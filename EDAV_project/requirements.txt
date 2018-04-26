@@ -1,0 +1,15 @@
+Django==2.0
+django-cors-headers==2.1.0
+django-tastypie==0.14.0
+djangorestframework==3.7.7
+geopy==1.12.0
+google==1.9.3
+google-api-python-client==1.5.1
+googlemaps==2.5.1
+numpy==1.14.0
+pandas==0.18.1
+requests==2.18.4
+responses==0.8.1
+whitenoise==3.3.1
+gunicorn
+
