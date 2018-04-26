@@ -8,3 +8,4 @@ Data scraping script: EDAV web scraping.ipynb
 Data cleaning script: EDAV data cleaning.ipynb  
 Intermedian data after scraping: nyc_hotel.json  
 Cleaned data: hotel.csv  
+Interactive part: EDAV_project  
