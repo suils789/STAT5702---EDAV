@@ -22,7 +22,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^$', views.home, name='home'),
     url(r'^search_by_address/$', views.search_by_address, name='search_by_address'),
-    url(r'^about_us/$', views.about_us, name='about_us')
+    url(r'^about_us/$', views.about_us, name='about_us'),
+    url(r'^report/$', views.report, name='report')
 ]
 
 urlpatterns += staticfiles_urlpatterns()

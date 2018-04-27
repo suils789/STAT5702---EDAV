@@ -13,6 +13,9 @@ def home(request):
 def about_us(request):
     return render(request, 'About_Us.html')
 
+def report(request):
+    return render(request, 'hotel_analysis_2.html')
+
 def search_by_address(request):
     if request.method == 'POST':
         address = request.POST.get('address')
